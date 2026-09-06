@@ -8,6 +8,14 @@
 | **Primary Strength** | Broadest service selection and maturity | Microsoft integration and hybrid cloud | Data analytics and machine learning |
 | **Ideal Organizations** | Enterprises, startups, diverse workloads | Microsoft shops, enterprises | Data-driven companies, startups |
 
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| Virtual Machine | EC2 | Virtual Machines | Compute Engine |
+| Object Storage | S3 | Blob Storage | Cloud Storage |
+| Identity Management | IAM | Azure Active Directory | Cloud IAM |
+| SQL Database | RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | EKS (Elastic Kubernetes Service) | AKS (Azure Kubernetes Service) | GKE (Google Kubernetes Engine) |
+
 ## Question & Answer
 ### 1. Which cloud provider offers the broadest range of services?
 Amazon Web Services (AWS) clearly offers the broadest and most mature range of services. With over 200 services covering every imaginable category, AWS has been in the market longer than its competitors and has had more time to build out its portfolio. This makes AWS the default choice for organizations that need diverse services or don't want to be limited by their provider's capabilities.
